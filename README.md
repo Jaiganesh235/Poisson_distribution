@@ -1,4 +1,4 @@
-# EXP NO:02
+[# EXP NO:02
 
 
 # DATE:13.09.23
@@ -87,3 +87,4 @@ else:
 
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
  
+](https://user-images.githubusercontent.com/119393621/238247008-0ff3d1e1-f544-4460-8303-a71b92bfd87a.png)https://user-images.githubusercontent.com/119393621/238247008-0ff3d1e1-f544-4460-8303-a71b92bfd87a.png
